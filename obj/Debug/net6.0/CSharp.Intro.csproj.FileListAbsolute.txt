@@ -1,0 +1,15 @@
+/Users/mirandafrudd/Projects/CSharp.Intro/bin/Debug/net6.0/CSharp.Intro
+/Users/mirandafrudd/Projects/CSharp.Intro/bin/Debug/net6.0/CSharp.Intro.deps.json
+/Users/mirandafrudd/Projects/CSharp.Intro/bin/Debug/net6.0/CSharp.Intro.runtimeconfig.json
+/Users/mirandafrudd/Projects/CSharp.Intro/bin/Debug/net6.0/CSharp.Intro.dll
+/Users/mirandafrudd/Projects/CSharp.Intro/bin/Debug/net6.0/CSharp.Intro.pdb
+/Users/mirandafrudd/Projects/CSharp.Intro/obj/Debug/net6.0/CSharp.Intro.csproj.AssemblyReference.cache
+/Users/mirandafrudd/Projects/CSharp.Intro/obj/Debug/net6.0/CSharp.Intro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mirandafrudd/Projects/CSharp.Intro/obj/Debug/net6.0/CSharp.Intro.AssemblyInfoInputs.cache
+/Users/mirandafrudd/Projects/CSharp.Intro/obj/Debug/net6.0/CSharp.Intro.AssemblyInfo.cs
+/Users/mirandafrudd/Projects/CSharp.Intro/obj/Debug/net6.0/CSharp.Intro.csproj.CoreCompileInputs.cache
+/Users/mirandafrudd/Projects/CSharp.Intro/obj/Debug/net6.0/CSharp.Intro.dll
+/Users/mirandafrudd/Projects/CSharp.Intro/obj/Debug/net6.0/refint/CSharp.Intro.dll
+/Users/mirandafrudd/Projects/CSharp.Intro/obj/Debug/net6.0/CSharp.Intro.pdb
+/Users/mirandafrudd/Projects/CSharp.Intro/obj/Debug/net6.0/CSharp.Intro.genruntimeconfig.cache
+/Users/mirandafrudd/Projects/CSharp.Intro/obj/Debug/net6.0/ref/CSharp.Intro.dll
